@@ -1,5 +1,6 @@
 """
 Python Básico: Explicaciones y ejemplos
+Jeje
 Este script contiene los conceptos básicos de Python con ejemplos explicados.
 """
 
